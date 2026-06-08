@@ -1,5 +1,7 @@
 # Embedded Hardware Bridge
 
+[中文](./README.zh.md)
+
 A Claude Code skill that bridges the gap between hardware design and firmware
 development. Give it a schematic (netlist, PDF, or screenshot) and it produces
 a hardware fact table, generates `board_pin.h` / `board_init.c` scaffolding,
