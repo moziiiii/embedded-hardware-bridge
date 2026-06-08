@@ -75,10 +75,9 @@ git clone https://github.com/moziiiii/embedded-hardware-bridge.git \
 [附原理图]
 
 提取硬件事实表。
-MCU：SC8F096AD824NPR。
-产品：口罩控制器，带风扇、电池、升压。
-关键模块：按键×3、LED×4、TH06 温湿度传感器、HP203N 气压传感器、
-CN3302 充电芯片、风扇 PWM、升压使能。
+MCU：[你的 MCU 型号]。
+产品：[简要产品描述]。
+关键模块：[按键、LED、传感器、充电芯片、执行器等]
 ```
 
 ### 验证已有固件

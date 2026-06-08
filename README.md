@@ -96,10 +96,9 @@ MCU: [model]. Product: [description].
 [Attach schematic]
 
 Use embedded-hardware-bridge to extract hardware facts.
-MCU: SC8F096AD824NPR.
-Product: mask controller with fan, battery, boost converter.
-Key modules: buttons ×3, LED ×4, TH06 temp sensor, HP203N pressure sensor,
-CN3302 charger, fan PWM, boost EN.
+MCU: [your MCU model].
+Product: [brief product description].
+Key modules: [list: buttons, LEDs, sensors, charger IC, actuators, etc.]
 ```
 
 ### Verify existing firmware
